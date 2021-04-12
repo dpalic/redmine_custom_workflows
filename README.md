@@ -59,6 +59,10 @@ git clone https://github.com/anteo/redmine_custom_workflows.git
 
 After download:
 
+* on ubuntu 20.04
+
+apt install ruby-acts-as-list ruby-activemodel-serializers-xml
+
 * Run migrations and restart the application:
 
 ```
